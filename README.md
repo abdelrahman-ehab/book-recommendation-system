@@ -55,12 +55,14 @@ Call the function get_collaborative_recommendations(user_id, model, trainset) to
 4. Hybrid Recommendations
 Implement a weighted hybrid system by combining content-based and collaborative recommendations dynamically.
 
-Visualizations
+## Visualizations
+
 Ratings Distribution: A histogram showcasing how books are rated.
 Top Genres & Authors: Bar plots highlighting the most popular genres and authors.
 Box Plots: Visualize ratings distribution for the top 20 authors.
 
-Results
+## Results
+
 Content-Based Filtering:
 Extracted book features using TF-IDF Vectorization.
 Computed similarity using cosine similarity to recommend books.
@@ -69,7 +71,7 @@ Modeled user-item interactions using the Surprise library's SVD algorithm.
 Predicted unseen ratings for books and recommended the highest-scoring ones.
 Hybrid Model: Balanced both approaches for comprehensive recommendations.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any feature requests or improvements.
 
 
