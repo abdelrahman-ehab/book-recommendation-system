@@ -22,6 +22,7 @@ This project aims to develop an intelligent recommendation system to help users 
 ### Sources:
 1. **Books Metadata:** A dataset containing information about 70,000 books (e.g., title, author, genre, description, and ratings).
 2. **User Ratings:** A dataset of user-book interactions with columns `user_id`, `book_id`, and `rating`.
+3. **Link:** https://drive.google.com/drive/folders/1Mk3NOhOcbb8j9k_OokzIsGb2jCNnzyVo
 
 ### Sample Data Preview
 #### Books Dataset:
